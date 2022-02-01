@@ -1,0 +1,22 @@
+{
+  "name": "dtmoocola_calculator",
+  "version": "0.1.0",
+  "description": "Defense Travel Management Office(DTMO) OCONUS Cost of Living(OCOLA) Calculator intended to auto generate OCOLA calculation sheet for Defense Workload Operations Web System(DWOWS) submittions to meet Defense Finance and Accounting Service(DFAS) requirements.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiahaok/DTMOOCOLA_Calculator.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jiahaok/DTMOOCOLA_Calculator/issues"
+  },
+  "homepage": "https://github.com/jiahaok/DTMOOCOLA_Calculator#readme",
+  "dependencies": {
+    "axios": "^0.25.0"
+  }
+}
